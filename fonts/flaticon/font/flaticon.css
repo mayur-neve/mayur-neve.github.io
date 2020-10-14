@@ -1,13 +1,12 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 21/07/2020 15:30
+  	Creation date: 23/07/2018 14:52
   	*/
 
 @font-face {
   font-family: "Flaticon";
   src: url("./Flaticon.eot");
   src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
-       url("./Flaticon.woff2") format("woff2"),
        url("./Flaticon.woff") format("woff"),
        url("./Flaticon.ttf") format("truetype"),
        url("./Flaticon.svg#Flaticon") format("svg");
@@ -30,8 +29,6 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-vector:before { content: "\f100"; }
-.flaticon-web-programming:before { content: "\f101"; }
-.flaticon-layer:before { content: "\f102"; }
-.flaticon-coding:before { content: "\f103"; }
-.flaticon-zoom:before { content: "\f104"; }
+.flaticon-yoga:before { content: "\f100"; }
+.flaticon-gym-1:before { content: "\f101"; }
+.flaticon-gym:before { content: "\f102"; }

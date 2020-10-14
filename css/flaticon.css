@@ -1,8 +1,7 @@
-	/*
-  	Flaticon icon font: Flaticon
-  	Creation date: 04/01/2019 13:45
-  	*/
-
+  /*
+    Flaticon icon font: Flaticon
+    Creation date: 23/07/2018 14:52
+    */
 
 @font-face {
   font-family: "Flaticon";
@@ -36,8 +35,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-vector:before { content: "\f100"; }
-.flaticon-web-programming:before { content: "\f101"; }
-.flaticon-layer:before { content: "\f102"; }
-.flaticon-coding:before { content: "\f103"; }
-.flaticon-zoom:before { content: "\f104"; }
+.flaticon-yoga:before { content: "\f100"; }
+.flaticon-gym-1:before { content: "\f101"; }
+.flaticon-gym:before { content: "\f102"; }
